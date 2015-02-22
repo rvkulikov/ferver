@@ -1,6 +1,8 @@
 
 # Fear-Driven Versioning
 
+Disclaimer: this is just an idea. Please don't actually use this. [Read more in this issue](https://github.com/jonathanong/ferver/issues/5).
+
 Fe(a)rVer - a versioning scheme for those of us who only care about breaking changes.
 This is similar to [semver](http://semver.org) and uses the same operators like
 `~` and `^`, but has slightly different as well as stricter semantics.
